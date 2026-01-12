@@ -1,7 +1,7 @@
 # Data Sciene Project: Hurricane Damage Detection
 
 ## Objective
-This is a deep learning project I started to work on in the scope of my Data Science education. The goal was to use transfer learning to build a computer vision tool that could identigy damage from post-hurricane satellite imagery.
+This is a deep learning project I started to work on in the scope of my Data Science education. The goal was to use transfer learning to build a computer vision tool that could identigy damage from post-hurricane satellite imagery. Here I use the "Satellite Images of Hurricane Damage" dataset from Kaggle.
 
 ## Methodology & Model Selection
 
